@@ -23,3 +23,4 @@ Your task is to integrate both AWS and Google cloud services in a SOLID complian
 * Refer the models package to understand the models.
 * Implement the `CloudService` and `UserRepository` interfaces to achieve the above requirements.
 * Implement an in memory database for storing the bill details.
+* Do not modify existing methods and their parameters for interfaces, feel free to add more methods if required.
